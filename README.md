@@ -3,6 +3,7 @@
 ## This repository contains the Python programs I created while learning Python.
 ## It includes basic concepts, exercises, mini-projects, and practice scripts.
 
+
 # Topics Covered
 
 ## Variables & Data Types
